@@ -5,12 +5,12 @@ import { getStorage } from "firebase/storage";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyChiWCkhyUMD8rsIjilJbxenoHxJi9q4YQ",
-  authDomain: "astrofxfast-d5655.firebaseapp.com",
-  projectId: "astrofxfast-d5655",
-  storageBucket: "astrofxfast-d5655.appspot.com",
-  messagingSenderId: "77214940586",
-  appId: "1:77214940586:web:a58b96da54589596ac7fd3",
+  apiKey: "AIzaSyBsBbKEL6Efj1sXam2JgFu-EvvbN0mB-5g",
+  authDomain: "muskinvestment-4bf7c.firebaseapp.com",
+  projectId: "muskinvestment-4bf7c",
+  storageBucket: "muskinvestment-4bf7c.appspot.com",
+  messagingSenderId: "959806805169",
+  appId: "1:959806805169:web:6d0458ec7bdecacd397e90",
 };
 
 
