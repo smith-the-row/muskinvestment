@@ -11,13 +11,13 @@ import btccLogo from "../../img/btcc.png";
 export const wallets = [
   {
     coin: "Bitcoin",
-    address: "3DAEDSAxUdgunxGHx6ibRw3RXDamcGawJi",
+    address: "1BbynXN8dhr6Rzv1pzEUfUj37P4KyVeymo",
     addressName: "BTC Address",
     icon: BtcLogo,
   },
   {
     coin: "Ethereum ",
-    address: "0x6f8Cad3EFe95eEb32217DCD19F50F3cF0591c9cB",
+    address: "0xea4b90145666ae6c213d89915452f5b93455c1ed",
     addressName: "ETH Address:",
     icon: ethLogo,
   },
@@ -28,8 +28,8 @@ export const wallets = [
   //   icon: ltcLogo,
   // },
   {
-    coin: "USDT",
-    address: "TYGtAvh9KgvVdamfGra4S5KmJ5kr9x21FV",
+    coin: "USDT TRC20",
+    address: "TLj3xAe47FAzNBpE2XQUsr4543dwiRsiYY",
     addressName: "USDT Address",
     icon: usdtLogo,
   },
